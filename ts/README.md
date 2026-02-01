@@ -1,0 +1,6 @@
+week - 2
+--------------- spl --------------------
+token mint address - GgKSCgGXbWy55Ni9Z1Tbmh6RRLkQvBJUn3Tyx7f46dNW
+tx mint - 5T4hAbHK3hDVXfwE4sFifnDGvSn4qya3x37dWhvrYDZf4zpWc78VwcpJFVArUELawLUwPEQar6vvz2zUnVGeepiq
+tx metadata - akDF4S74cn8MVD7JcmVc1HjtAVQyYPgBDj2TKTf7ybxmGUTixUBZzcr3KwztpvCRPDUopAwkyapX2ggrzMFEdyW
+
