@@ -10,7 +10,7 @@ const commitment: Commitment = "confirmed";
 const connection = new Connection("https://api.devnet.solana.com", commitment);
 
 // Mint address
-const mint = new PublicKey("GgKSCgGXbWy55Ni9Z1Tbmh6RRLkQvBJUn3Tyx7f46dNW");
+const mint = new PublicKey("6LxjUMVmR4Y5nMUW6xZ7btg4Vy56vsMpLDc3mi7V3cmr");
 
 // Recipient address
 const to = new PublicKey("2FvMsMY1DKpnJL3FUk4HBPVffzK4iF55rZHKPNgikef1");
@@ -23,7 +23,7 @@ const to = new PublicKey("2FvMsMY1DKpnJL3FUk4HBPVffzK4iF55rZHKPNgikef1");
         const ataTo = await getOrCreateAssociatedTokenAccount(connection, keypair, mint, to);
         // Transfer the new token to the "toTokenAccount" we just created
 
-        const sign = await transfer(connection, keypair, ataFrom.address, ataTo.address, keypair.publicKey, 10 * 1e6);
+        const sign = await transfer(connection, keypair, ataFrom.address, ataTo.address, keypair.publicKey, 1);
         console.log("sign - ", sign);
         
     } catch(e) {

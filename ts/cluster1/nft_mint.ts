@@ -22,7 +22,7 @@ const mint = generateSigner(umi);
         name: "MY RGGGGYYYYYY",
         symbol: "NTTFFF",
         uri:  "https://gateway.irys.xyz/5svm3JFmMpDbkgQ57wpEkhyieYLy8VBmcNko2iyiKmXT",
-        sellerFeeBasisPoints: percentAmount(5)
+        sellerFeeBasisPoints: percentAmount(0)
     })
     let result = await tx.sendAndConfirm(umi);
     const signature = base58.encode(result.signature);
