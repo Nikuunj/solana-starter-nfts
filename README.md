@@ -43,18 +43,22 @@ This repository documents my **Week 2 (SPL Token)** and **Week 3 (NFTs)** work a
 - **Transaction**
   [https://explorer.solana.com/tx/SDeu3Z6YYtTNBWpGiDrb9vnwxy49p9DXtQcQGkkTQeNz9xLLQZJhnxQq4widv1XepMgWrbN9EUbYj3D8e2puoU7?cluster=devnet](https://explorer.solana.com/tx/SDeu3Z6YYtTNBWpGiDrb9vnwxy49p9DXtQcQGkkTQeNz9xLLQZJhnxQq4widv1XepMgWrbN9EUbYj3D8e2puoU7?cluster=devnet)
 
-- **Metadata URI**
-  [https://gateway.irys.xyz/5svm3JFmMpDbkgQ57wpEkhyieYLy8VBmcNko2iyiKmXT](https://gateway.irys.xyz/5svm3JFmMpDbkgQ57wpEkhyieYLy8VBmcNko2iyiKmXT)
-
 ---
 
 ### NFT 2 (With Image)
 
 - **Mint Address**
-  `6LxjUMVmR4Y5nMUW6xZ7btg4Vy56vsMpLDc3mi7V3cmr`
+  `BrUGdZhrcBXFaHCX4D5xTHG6X38r2H3TaKAGpyjbxzRo`
 
 - **Transaction**
-  [https://explorer.solana.com/tx/37gXh4xuGpvoVUvWz8J5JFqKv2UJFFmwvJ3SDxvL1uEGxzPHXe94ktX2aVYbbYmBQkJptviR3W4TeEijFeZghhx3?cluster=devnet](https://explorer.solana.com/tx/37gXh4xuGpvoVUvWz8J5JFqKv2UJFFmwvJ3SDxvL1uEGxzPHXe94ktX2aVYbbYmBQkJptviR3W4TeEijFeZghhx3?cluster=devnet)
+  [https://explorer.solana.com/tx/2xuz84YHiDiu6AJ3iD8bsxL7mTPTfrbYLBMPAv62FDmVykgB4f2PQEdZrf7FP8oK8ZHRak6kGeDRHjtrmv2w1AGe?cluster=devnet](https://explorer.solana.com/tx/2xuz84YHiDiu6AJ3iD8bsxL7mTPTfrbYLBMPAv62FDmVykgB4f2PQEdZrf7FP8oK8ZHRak6kGeDRHjtrmv2w1AGe?cluster=devnet)
+
+
+- **Metadata URI**
+  [https://gateway.irys.xyz/5svm3JFmMpDbkgQ57wpEkhyieYLy8VBmcNko2iyiKmXT](https://gateway.irys.xyz/5svm3JFmMpDbkgQ57wpEkhyieYLy8VBmcNko2iyiKmXT)
 
 - **Image URI**
   [https://gateway.irys.xyz/7wM21GmcutQKiZcTanU2ma8ACULHK1v8oU3ZJhLJD3D6](https://gateway.irys.xyz/7wM21GmcutQKiZcTanU2ma8ACULHK1v8oU3ZJhLJD3D6)
+
+- **Send NFTs Transaction**
+  [https://explorer.solana.com/tx/3uufjFbapiADSmoYrM1Cx8R6MBvPBC8BiSJyKKJtpKoxHmqQyUQXMmi9ndfHxHSccchUcmXFoHNviRuwW1U9v5QZ?cluster=devnet](https://explorer.solana.com/tx/3uufjFbapiADSmoYrM1Cx8R6MBvPBC8BiSJyKKJtpKoxHmqQyUQXMmi9ndfHxHSccchUcmXFoHNviRuwW1U9v5QZ?cluster=devnet)
